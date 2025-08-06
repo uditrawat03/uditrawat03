@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Udit Rawat
 - 💼 12+ years of experience as a result-oriented software engineer, actively involved in building commercially successful products from scratch across the full software development lifecycle.
 
--💡 Skilled in full-stack development, with hands-on expertise in backend (PHP, Laravel, MySQL, REST APIs) and frontend (React, Vue.js, Angular) technologies.
+- 💡 Skilled in full-stack development, with hands-on expertise in backend (PHP, Laravel, MySQL, REST APIs) and frontend (React, Vue.js, Angular) technologies.
 
 - 💳 Experience with payment gateways like Stripe, TrueLayer, Yapily, and PayPal.
 
